@@ -1,11 +1,15 @@
 <template>
-  <div class="about">
     <div class=textArea>
-      <h3>About</h3>
-      （工事中）
-    </div>
-  </div>
+        <h3> Skills </h3>
+        （工事中）
+    </div>    
 </template>
+
+<script>
+export default {
+    name: "Skills"
+}
+</script>
 
 <style scoped>
     div.textArea{
