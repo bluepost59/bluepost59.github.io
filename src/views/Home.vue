@@ -9,6 +9,12 @@
       <li>乗り鉄</li>
       <li>デレステP（桃華、千枝、雪美担当）</li>
     </ul>
+    
+    <h3>Contact</h3>
+    <ul>
+      <li>ブログ：<a href=https://bluepost69.hatenablog.com/>https://bluepost69.hatenablog.com/</a></li>
+      <li>twitter：<a href=https://twitter.com/Bluepost125>@bluepost125</a></li>
+    </ul>
 
   </div>
 </template>
