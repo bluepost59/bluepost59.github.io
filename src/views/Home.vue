@@ -3,7 +3,7 @@
     <h3>プロフィール</h3>
     <ul>
       <li>エネルギー科学修士（Master of Energy Science, Kyoto Univ. 2018）</li>
-      <li>AI/IoTエンジニア（Skillをご覧ください）</li>
+      <li>AI/IoTエンジニア（Skillsをご覧ください）</li>
       <li>趣味webデベロッパー</li>
       <li>YBR125ライダー</li>
       <li>乗り鉄</li>
