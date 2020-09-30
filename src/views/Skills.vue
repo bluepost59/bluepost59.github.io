@@ -1,23 +1,78 @@
 <template>
-    <div class=textArea>
-        <h1> Skills </h1>
-        <h4>IT系</h4>
+    <div class=textArea>    
+        <h3>経験のある技術（特に注力していた時期）</h3>
+        
+        <h4>Python（2017～）</h4>
+        一番書いてます。
         <ul>
-            <li>応用情報技術者（2018）</li>
-            <li>ネットワークスペシャリスト（2019）</li>
-            <li>Python 3 エンジニア認定データ分析試験（2020）</li>
+            <li>NumPy</li>
+            <li>SciPy</li>
+            <li>OpenCV</li>
+            <li>Scikit-learn</li>
+            <li>Tensorflow (Tensorflow.keras)</li>
+            <li>Flask</li>
         </ul>
-        <h4>その他</h4>
+        
+        <h4>サーバサイドNode.js（2019）</h4>
         <ul>
-            <li>日商珠算検定2級（2005）</li>
-            <li>漢字検定2級（2011）</li>
-            <li>英語検定2級（2010）</li>
-            <li>TOEICスコア725点（2016）</li>
-            <li>準中型自動車免許（5t限定）（2016）</li>
-            <li>普通二輪免許（2017）</li>
-            <li>大型二輪免許（2017）</li>
+            <li>express</li>
+            <li>MongoDB/Mongoose</li>
         </ul>
-    </div>    
+
+        <h4>webフロントエンド（2020）</h4>
+        趣味ですが、本サイトの構築に使用しています。
+        <ul>
+            <li>静的html+js+cssコンテンツのホスティング</li>
+            <li>Vue.js</li>
+            <li>Vue-CLI</li>
+        </ul>
+
+        <h4>C++（2018）</h4>
+        <ul>
+            <li>Arduino互換機開発（ESP32、M5シリーズ）</li>
+        </ul>
+
+        <h4>C#（2018）</h4>
+        <ul>
+            <li>WPF</li>
+            <li>Unity（少しだけ）</li>
+        </ul>
+
+        <h4>fortran（2012～2018）</h4>
+        <ul>
+            <li>MPI</li>
+            <li>OpenMP</li>
+        </ul>
+
+        <h4>ゲームエンジン、3Dモデリング（2018～）</h4>
+        どれも簡単な操作のみ
+        <ul>
+            <li>Unity</li>
+            <li>Unreal Engine 4</li>
+            <li>meshlab</li>
+            <li>blender</li>
+        </ul>
+
+        <h4>LaTeX（2017～）</h4>
+        論文執筆に使用。
+
+        <h4>bash（2016～2017）</h4>
+        <ul>
+            <li>awk</li>
+            <li>gnuplot</li>
+        </ul>
+
+        <h4>その他開発ツール</h4>
+        <ul>
+            <li>Git</li>
+            <li>GitHub ActionsによるCI/CD</li>
+            <li>VSCode</li>
+            <li>Emacs（CUIも可能）</li>
+            <li>SSH</li>
+            <li>RaspberryPi</li>
+            <li>VirtualBox</li>
+        </ul>
+    </div>
 </template>
 
 <script>
