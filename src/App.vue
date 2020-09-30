@@ -6,7 +6,8 @@
     <div class="globalMenu">
       <router-link to="/">Home</router-link> | 
       <router-link to="/about">About</router-link> |
-      <router-link to="/skills">Skills</router-link>
+      <router-link to="/skills">Skills</router-link> |
+      <router-link to="/jobs">Jobs</router-link>
     </div>
     <router-view/>
   </div>

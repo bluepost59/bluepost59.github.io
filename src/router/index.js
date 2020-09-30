@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Skills from '../views/Skills.vue'
+import Jobs from '../views/Jobs.vue'
 
 Vue.use(VueRouter)
 
@@ -23,7 +24,12 @@ Vue.use(VueRouter)
     path:'/skills',
     name:'Skills',
     component:Skills
-  }
+  },
+  {
+    path:'/jobs',
+    name:'Jobs',
+    component:Jobs
+  },
 ]
 
 const router = new VueRouter({
